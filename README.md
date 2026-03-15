@@ -19,6 +19,23 @@ I enjoy building real-world systems and solving engineering problems.
 
 ## 🚀 Projects
 
+
+
+
+### .NET Software Project
+
+Object-oriented software project developed in C# using the .NET framework.
+
+The project demonstrates:
+
+- Object Oriented Programming
+- Software architecture
+- Scene rendering and geometry calculations
+- Unit testing
+
+Repository:
+https://github.com/itzhakohana/dotNet5784_4818_3203
+
 ### ChildSafe System
 
 Smart vehicle safety monitoring prototype.
