@@ -1,4 +1,45 @@
-## Hi there 👋
+# Hi, I'm Yitzhak Ohana 👋
+
+Computer Science student at Lev Academic Center (JCT).
+
+I enjoy building real-world systems and solving engineering problems.
+
+---
+
+## 🔧 Technologies
+
+- Python
+- C++
+- C#
+- SQL
+- Object Oriented Programming
+- Data Structures
+
+---
+
+## 🚀 Projects
+
+### ChildSafe System
+
+Smart vehicle safety monitoring prototype.
+
+Detects dangerous cabin conditions (temperature / CO2) when a child might be left inside a locked car.
+
+Technologies used:
+- Python
+- State machine architecture
+- Simulation engine
+- Unit testing
+
+Project repository:
+https://github.com/itzhakohana/childsafe-system
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/itzchak-ohana/
 
 <!--
 **itzhakohana/itzhakohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
