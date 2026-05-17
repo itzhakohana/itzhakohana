@@ -22,19 +22,19 @@ I enjoy building real-world systems and solving engineering problems.
 
 
 
-### .NET Software Project
+### NoPro – .NET Project Management Application
 
-Object-oriented software project developed in C# using the .NET framework.
+A desktop project management application built with C#, .NET, and WPF.
 
 The project demonstrates:
+- Three-layer architecture: UI, Business Logic, Data
+- Object-Oriented Programming
+- Design patterns: Singleton, Observer, Factory
+- XML-based data layer
+- Multithreading for dynamic UI behavior
 
-- Object Oriented Programming
-- Software architecture
-- Scene rendering and geometry calculations
-- Unit testing
+Repository: https://github.com/itzhakohana/dotNet5784_4818_3203
 
-Repository:
-https://github.com/itzhakohana/dotNet5784_4818_3203
 
 ### ChildSafe System
 
