@@ -46,18 +46,20 @@ Repository: https://github.com/itzhakohana/dotNet5784_4818_3203
 
 ### ChildSafe System
 
-Smart vehicle safety monitoring prototype.
+Smart vehicle safety monitoring prototype built with Python.
 
-Detects dangerous cabin conditions (temperature / CO₂ ) when a child might be left inside a locked car.
+Detects dangerous cabin conditions such as temperature and CO2 levels when a child might be left inside a locked car.
 
-Technologies used:
-- Python
-- State machine architecture
+The project demonstrates:
+- Python development
+- State-machine architecture
+- Rule-based decision logic
 - Simulation engine
 - Unit testing
+- Webhook/automation integration
+- Real-world safety problem solving
 
-Project repository:
-https://github.com/itzhakohana/childsafe-system
+Project repository: https://github.com/itzhakohana/childsafe-system
 
 
 ### AI Planning Assistant
